@@ -13,7 +13,7 @@
 <img src="./docs/code.png" width="500">
 
 ---
-#### 第三步：需要在腾讯云管理后台创建一个云函数Node服务, 来存放代码
+#### 第三步：需要在腾讯云管理后台创建一个云函数Node服务, 来存放代码 (都是免费的)
 
 1. 新建一个云函数 `Hello World` 示例框架模板
 <img src="./docs/newCreate.png" width="500">
